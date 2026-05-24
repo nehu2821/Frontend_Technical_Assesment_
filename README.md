@@ -6,7 +6,7 @@ This project is a technical assessment implementation that recreates core functi
 
 **Frontend:** [Live Site URL](https://vectorshift-task.vercel.app/)
 
-**Code Repo:** [Repository URL](https://github.com/nehu2821/Frontend_Technical_Assesment)
+**Code Repo:** [Repository URL](https://github.com/nehu2821/Frontend_Technical_Assesment_/tree/main)
 
 ## Key Features
 
